@@ -1,6 +1,6 @@
 package jdbc;
 import java.sql.*;
-
+  // class DBconnector -> Commented a create a single line.
 public class DBConnector {
 	public static final String UPDATE_USERS_SQL="update employee;";
 
